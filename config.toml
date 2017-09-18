@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Groeneliefjes"
-    description = "Personal blog theme powered by Hugo"
+    description = "Open source web log"
     githubUsername = "mdehollander"
     accent = "green"
     showBorder = true
