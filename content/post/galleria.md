@@ -13,5 +13,5 @@ imgTitle = "Octagonal Hall"
 imgDesc = "An octagonal building just inside the entrance of the Lama Temple"
 +++
 
-Here is some text
+Here is some text. Er moet wel tenminste een lange zin staan bij de beschrijving, anders wordt de pagina te klein om de gallery weer te geven.
 
