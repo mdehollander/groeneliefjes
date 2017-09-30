@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Post Title, name: title, widget: string}
       - {label: Content, name: body, widget: markdown}
 #      - {label: Author, name: author, widget: relation, collection: authors, searchFields: ["first_name", "last_name"], valueField: "title"}
-      - {label: Gallery, name: gallery, widget: list, optional: true, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}
+      - {label: Gallery, name: gallery, widget: list, required: false, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}
 
 
   - name: page # Used in routes, ie.: /admin/collections/:slug/edit
