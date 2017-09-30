@@ -11,9 +11,12 @@ install:
  - URL=$( curl -s "https://api.github.com/repos/gohugoio/hugo/releases/latest" | jq -r '.assets[] | select(.name | endswith("Linux-64bit.deb")) | .browser_download_url' )
  - wget -O /tmp/hugo.deb $URL
  - sudo dpkg -i /tmp/hugo.deb
+ - sudo pip install sigal
+ - sudo apt-get install -y exiftool
 
 script:
  - hugo
+ - sigal build -f content/post/images/ static/images/uploads/
 
 deploy:
   - provider: script
