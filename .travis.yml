@@ -15,8 +15,8 @@ install:
  - sudo apt-get install -y exiftool
 
 script:
- - hugo
  - sigal build -f content/post/images/ static/images/uploads/
+ - hugo
 
 deploy:
   - provider: script
