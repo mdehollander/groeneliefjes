@@ -1,6 +1,6 @@
 baseURL = "https://groeneliefjes.nl/"
 languageCode = "en-us"
-title = "Groeneliefjes"
+title = "Groene liefjes"
 theme = "minimal"
 
 [params]
