@@ -15,6 +15,7 @@ theme = "minimal"
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     gallery = true
+    leaflet = true
 
 [[menu.main]]
     url = "/"

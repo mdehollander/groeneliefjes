@@ -17,6 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Post Title, name: title, widget: string}
       - {label: Content, name: body, widget: markdown}
 #      - {label: Author, name: author, widget: relation, collection: authors, searchFields: ["first_name", "last_name"], valueField: "title"}
+      - {label: Location, name: leaflet, widget: object, required: False, fields: [{label: Latitude, name: lat, widget: number}, {label: Longitude, name: lon, widget: number}]}
       - {label: Gallery, name: gallery, widget: list, required: false, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}
 
 
