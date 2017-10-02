@@ -32,11 +32,11 @@ theme = "minimal"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "https://newsletter.biomatt.nl/lists/?p=subscribe"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/mdehollander/"
+    url = "https://github.com/mdehollander/groeneliefjes"
     name = "github"
     weight = 2
