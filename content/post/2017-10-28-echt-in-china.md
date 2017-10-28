@@ -1,6 +1,9 @@
 ---
 date: 2017-10-28T10:14:18.569Z
 title: Echt in China
+leaflet:
+  lat: '39.9161386'
+  lon: '116.3909411'
 ---
 We zijn op huwelijksreis! Afgelopen vrijdag vlogen we naar Beijing, waar we zaterdag om half 6 's ochtends aankwamen. Terwijl jullie allemaal lekker lagen te slapen stonden we in de rij voor de paspoortcontrole, namen we de airport express (the automated people mover, aldus het bordje), en liepen we door Beijing naar ons hostel, waar we om 9 uur 's ochtends aankwamen. Een fijne plek, waar we even bijkwamen van de schok. De rest van de dag wat in parken gehangen, waar oudjes zaten te kaarten of muziek maakten, ouders met kind rondliepen, mensen aan het hardlopen waren etc. Het chinese leven op een zaterdag. We aten onze eerste noodles en onze eerste rijst in chinese eettentjes, waar ook nog soms iets van engels te lezen was. De hele dag waren we moe, maar de tijd ging zo sloom! 
 
