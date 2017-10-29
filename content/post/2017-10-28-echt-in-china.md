@@ -7,6 +7,24 @@ leaflet:
 gallery:
   - image: /images/uploads/10210024.JPG
   - image: /images/uploads/10210025.JPG
+  - image: /images/uploads/10210035.JPG
+  - image: /images/uploads/10210048.JPG
+  - image: /images/uploads/10210063.JPG
+  - image: /images/uploads/10220081.JPG
+  - image: /images/uploads/_A220092.JPG
+  - image: /images/uploads/_A220138.JPG
+  - image: /images/uploads/_A230238.JPG
+  - image: /images/uploads/_A230257.JPG
+  - image: /images/uploads/_A230308.JPG
+  - image: /images/uploads/_A230312.JPG
+  - image: /images/uploads/_A230321.JPG
+  - image: /images/uploads/_A230341.JPG
+  - image: /images/uploads/_A240355.JPG
+  - image: /images/uploads/_A240365.JPG
+  - image: /images/uploads/_A240394.JPG
+  - image: /images/uploads/_A240398.JPG
+  - image: /images/uploads/_A250434.JPG
+  - image: /images/uploads/_A250486.JPG
 ---
 We zijn op huwelijksreis! Afgelopen vrijdag vlogen we naar Beijing, waar we zaterdag om half 6 's ochtends aankwamen. Terwijl jullie allemaal lekker lagen te slapen stonden we in de rij voor de paspoortcontrole, namen we de airport express (the automated people mover, aldus het bordje), en liepen we door Beijing naar ons hostel, waar we om 9 uur 's ochtends aankwamen. Een fijne plek, waar we even bijkwamen van de schok. De rest van de dag wat in parken gehangen, waar oudjes zaten te kaarten of muziek maakten, ouders met kind rondliepen, mensen aan het hardlopen waren etc. Het chinese leven op een zaterdag. We aten onze eerste noodles en onze eerste rijst in chinese eettentjes, waar ook nog soms iets van engels te lezen was. De hele dag waren we moe, maar de tijd ging zo sloom! Wel fijn trouwens dat we ons geen zorgen hoefden te maken over Chinees geld in de eerste dagen - op onze bruiloft hadden we genoeg gekregen om een aantal dagen door te komen: de metrorit vanaf het vliegveld, de eerste maaltijden etc... Dankjulliewel!
 
