@@ -40,4 +40,3 @@ Woensdag zijn we met de supersnelle trein (rond de 300 km/h) naar Shanghai gerei
 
 Nog een paar dagen Shanghai, dan gaan we verder. Dat wordt waarschijnlijk een andere ervaring. Nu is er vaak engelse vertaling, snappen mensen dat we dingen niet snappen en doen ze moeite om je te helpen. Wilma is hard bezig om Chinese woordjes te leren, zodat we ons gaan redden ;) En we nemen de tijd :)
 
-Oja, we hebben natuurlijk foto's! Maar nog niet de tijd genomen om de mooiste te kiezen en up te loaden.. Dus die hebben jullie nog te goed!
