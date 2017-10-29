@@ -61,10 +61,10 @@ use_orig = True
 # Warning: this setting is not compatible with `copy_exif_data` (see below),
 # because Sigal can't save the modified Orientation tag (currently Pillow can't
 # write EXIF).
-# autorotate_images = True
+autorotate_images = True
 
 # If True, EXIF data from the original image is copied to the resized image
-copy_exif_data = True
+copy_exif_data = False
 
 # Jpeg options
 # jpg_options = {'quality': 85,
