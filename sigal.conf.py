@@ -33,14 +33,14 @@ theme = 'galleria'
 # processing steps (resize, auto-orient, recompress, and any plugin-specific
 # step).
 # Originals will be symlinked if orig_link = True, else they will be copied.
-# use_orig = False
+use_orig = True
 
 # ----------------
 # Image processing (ignored if use_orig = True)
 # ----------------
 
 # Size of resized image (default: (640, 480))
-img_size = (800, 600)
+#img_size = (800, 600)
 
 # Show a map of the images where possible?
 # This option only has an effect on the galleria theme for the while.
@@ -103,7 +103,7 @@ thumb_size = (280, 210)
 # orig_dir = 'original'
 
 # Use symbolic links instead of copying the original images
-# orig_link = False
+orig_link = False
 
 # Attribute of Album objects which is used to sort medias (eg 'title'). To sort
 # on a metadata key, use 'meta.key'.
