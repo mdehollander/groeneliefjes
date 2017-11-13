@@ -6,17 +6,78 @@ leaflet:
   lon: '114.15415'
 gallery:
   - image: /images/uploads/_B051939.JPG
-  - image: /images/uploads/_B051946.JPG
-  - image: /images/uploads/_B051952.JPG
-  - image: /images/uploads/_B051960.JPG
-  - image: /images/uploads/_B051963.JPG
-  - image: /images/uploads/_B051965.JPG
-  - image: /images/uploads/_B051967.JPG
-  - image: /images/uploads/_B051981.JPG
   - image: /images/uploads/_B051996.JPG
+  - image: /images/uploads/_B052069.JPG
+  - image: /images/uploads/_B082275.JPG
+  - image: /images/uploads/_B082340.JPG
+  - image: /images/uploads/_B092499.JPG
+  - image: /images/uploads/_B092560.JPG
+  - image: /images/uploads/_B102641.JPG
+  - image: /images/uploads/_B112738.JPG
+  - image: /images/uploads/_B112774.JPG
+  - image: /images/uploads/_B051946.JPG
   - image: /images/uploads/_B052010.JPG
+  - image: /images/uploads/_B062133.JPG
+  - image: /images/uploads/_B082276.JPG
+  - image: /images/uploads/_B082345.JPG
+  - image: /images/uploads/_B092506.JPG
+  - image: /images/uploads/_B092574.JPG
+  - image: /images/uploads/_B102645.JPG
+  - image: /images/uploads/_B112740.JPG
+  - image: /images/uploads/_B051952.JPG
   - image: /images/uploads/_B052013.JPG
+  - image: /images/uploads/_B062150.JPG
+  - image: /images/uploads/_B082282.JPG
+  - image: /images/uploads/_B082360.JPG
+  - image: /images/uploads/_B092525.JPG
+  - image: /images/uploads/_B092592.JPG
+  - image: /images/uploads/_B102699.JPG
+  - image: /images/uploads/_B112748.JPG
+  - image: /images/uploads/_B051960.JPG
   - image: /images/uploads/_B052023.JPG
+  - image: /images/uploads/_B062158.JPG
+  - image: /images/uploads/_B082321.JPG
+  - image: /images/uploads/_B082368.JPG
+  - image: /images/uploads/_B092532.JPG
+  - image: /images/uploads/_B102598.JPG
+  - image: /images/uploads/_B112722.JPG
+  - image: /images/uploads/_B112761.JPG
+  - image: /images/uploads/_B051963.JPG
+  - image: /images/uploads/_B052041.JPG
+  - image: /images/uploads/_B062185.JPG
+  - image: /images/uploads/_B082332.JPG
+  - image: /images/uploads/_B092410.JPG
+  - image: /images/uploads/_B092549.JPG
+  - image: /images/uploads/_B102607.JPG
+  - image: /images/uploads/_B112725.JPG
+  - image: /images/uploads/_B112765.JPG
+  - image: /images/uploads/_B051965.JPG
+  - image: /images/uploads/_B052048.JPG
+  - image: /images/uploads/_B062186.JPG
+  - image: /images/uploads/_B082334.JPG
+  - image: /images/uploads/_B092420.JPG
+  - image: /images/uploads/_B092553.JPG
+  - image: /images/uploads/_B102615.JPG
+  - image: /images/uploads/_B112728.JPG
+  - image: /images/uploads/_B112766.JPG
+  - image: /images/uploads/_B051967.JPG
+  - image: /images/uploads/_B052055.JPG
+  - image: /images/uploads/_B062192.JPG
+  - image: /images/uploads/_B082335.JPG
+  - image: /images/uploads/_B092451.JPG
+  - image: /images/uploads/_B092554.JPG
+  - image: /images/uploads/_B102631.JPG
+  - image: /images/uploads/_B112732.JPG
+  - image: /images/uploads/_B112769.JPG
+  - image: /images/uploads/_B051981.JPG
+  - image: /images/uploads/_B052063.JPG
+  - image: /images/uploads/_B082253.JPG
+  - image: /images/uploads/_B082338.JPG
+  - image: /images/uploads/_B092474.JPG
+  - image: /images/uploads/_B092555.JPG
+  - image: /images/uploads/_B102635.JPG
+  - image: /images/uploads/_B112734.JPG
+  - image: /images/uploads/_B112770.JPG
 ---
 Na een paar dagen Guilin besluiten we om naar Longji te gaan. (Long = draak, ji is denk ik rijstterrassen), dus een plek met bergen die bijna helemaal uit rijstterrassen bestaan.
 
