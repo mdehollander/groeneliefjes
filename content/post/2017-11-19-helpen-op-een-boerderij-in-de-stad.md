@@ -4,6 +4,34 @@ title: Helpen op een boerderij in de stad
 leaflet:
   lat: '23.0686176'
   lon: '113.7532353'
+gallery:
+  - image: /images/uploads/_B122790.JPG
+  - image: /images/uploads/_B142864.JPG
+  - image: /images/uploads/_B142875.JPG
+  - image: /images/uploads/_B152898.JPG
+  - image: /images/uploads/_B152916.JPG
+  - image: /images/uploads/_B152933.JPG
+  - image: /images/uploads/_B162982.JPG
+  - image: /images/uploads/_B183068.JPG
+  - image: /images/uploads/_B183115.JPG
+  - image: /images/uploads/_B132797.JPG
+  - image: /images/uploads/_B142869.JPG
+  - image: /images/uploads/_B152886.JPG
+  - image: /images/uploads/_B152904.JPG
+  - image: /images/uploads/_B152926.JPG
+  - image: /images/uploads/_B152938.JPG
+  - image: /images/uploads/_B173015.JPG
+  - image: /images/uploads/_B183071.JPG
+  - image: /images/uploads/_B183116.JPG
+  - image: /images/uploads/_B132798.JPG
+  - image: /images/uploads/_B142873.JPG
+  - image: /images/uploads/_B152891.JPG
+  - image: /images/uploads/_B152912.JPG
+  - image: /images/uploads/_B152932.JPG
+  - image: /images/uploads/_B162965.JPG
+  - image: /images/uploads/_B173028.JPG
+  - image: /images/uploads/_B183078.JPG
+  - image: /images/uploads/_B183137.JPG
 ---
 De week dat we gingen WWOOFen, opeens aan het lesgeven waren op een vegetarische school en het raadsel van het eiland.
 
