@@ -4,6 +4,63 @@ title: Alweer de laatste week
 leaflet:
   lat: '28.346100'
   lon: '109.5816500'
+gallery:
+  - image: /images/uploads/_B253444.JPG
+  - image: /images/uploads/_B253458.JPG
+  - image: /images/uploads/_B253452.JPG
+  - image: /images/uploads/_B253462.JPG
+  - image: /images/uploads/_B253466.JPG
+  - image: /images/uploads/_B253476.JPG
+  - image: /images/uploads/_B253489.JPG
+  - image: /images/uploads/_B253500.JPG
+  - image: /images/uploads/_B253503.JPG
+  - image: /images/uploads/_B253501.JPG
+  - image: /images/uploads/_B253515.JPG
+  - image: /images/uploads/_B253516.JPG
+  - image: /images/uploads/_B253532.JPG
+  - image: /images/uploads/_B253536.JPG
+  - image: /images/uploads/_B263554.JPG
+  - image: /images/uploads/_B263572.JPG
+  - image: /images/uploads/_B263575.JPG
+  - image: /images/uploads/_B263576.JPG
+  - image: /images/uploads/_B263590.JPG
+  - image: /images/uploads/_B263621.JPG
+  - image: /images/uploads/_B263631.JPG
+  - image: /images/uploads/_B263634.JPG
+  - image: /images/uploads/_B263657.JPG
+  - image: /images/uploads/_B263672.JPG
+  - image: /images/uploads/_B263680.JPG
+  - image: /images/uploads/_B263681.JPG
+  - image: /images/uploads/_B273692.JPG
+  - image: /images/uploads/_B273695.JPG
+  - image: /images/uploads/_B273698.JPG
+  - image: /images/uploads/_B273703.JPG
+  - image: /images/uploads/_B273704.JPG
+  - image: /images/uploads/_B273724.JPG
+  - image: /images/uploads/_B273726.JPG
+  - image: /images/uploads/_B273729.JPG
+  - image: /images/uploads/_B273739.JPG
+  - image: /images/uploads/_B273745.JPG
+  - image: /images/uploads/_B273748.JPG
+  - image: /images/uploads/_B283776.JPG
+  - image: /images/uploads/_B283782.JPG
+  - image: /images/uploads/_B283784.JPG
+  - image: /images/uploads/_B293800.JPG
+  - image: /images/uploads/_B293808.JPG
+  - image: /images/uploads/_B293826.JPG
+  - image: /images/uploads/_B293838.JPG
+  - image: /images/uploads/_B293840.JPG
+  - image: /images/uploads/_B293841.JPG
+  - image: /images/uploads/_B293847.JPG
+  - image: /images/uploads/_B293866.JPG
+  - image: /images/uploads/_B293881.JPG
+  - image: /images/uploads/_B303892.JPG
+  - image: /images/uploads/_B303893.JPG
+  - image: /images/uploads/_B303895.JPG
+  - image: /images/uploads/_B303897.JPG
+  - image: /images/uploads/_B303901.JPG
+  - image: /images/uploads/_B303904.JPG
+  - image: /images/uploads/_B303913.JPG
 ---
 We zijn weer thuis. Maar eerst hebben jullie nog een update tegoed over wat we de afgelopen twee weken gedaan hebben.
 
